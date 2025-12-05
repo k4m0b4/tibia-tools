@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktibia=self.webpackChunktibia||[]).push([[962],{6483:(e,n,t)=>{t.r(n),t.d(n,{default:()=>i});const u={},i=(0,t(6262).A)(u,[["render",function(e,n){return null}]])}}]);
