@@ -4,14 +4,14 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/januszwendland/tibia.git"
+    "url": "git+https://github.com/k4m0b4/tibia-tools"
   },
-  "author": "Janusz Wendland",
+  "author": "K4M0B4",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/januszwendland/tibia/issues"
+    "url": "https://github.com/k4m0b4/tibia-tools"
   },
-  "homepage": "https://github.com/januszwendland/tibia#readme",
+  "homepage": "https://github.com/k4m0b4/tibia-tools",
   "scripts": {
     "watch": "set NODE_ENV=development && webpack --mode development --watch",
     "prod": "set NODE_ENV=production && webpack --mode production"
